@@ -1,0 +1,3 @@
+what is UID in Linux?
+UID stands for user identifier. UID is a number assigned to each linux user. The UID is used for identifying the user within the system and 
+for determining which ystem resources the user can access, this is why the user id should be unique.
